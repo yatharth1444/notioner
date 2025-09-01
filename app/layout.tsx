@@ -11,7 +11,7 @@ import React from "react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jotion",
+  title: "Notioner",
   description: "The connected workspace where better, faster work happens.",
   icons: {
     icon: [
